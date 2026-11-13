@@ -1,1 +1,0 @@
-Se corrigió el problema por el que no funcionaba la actualización automática.

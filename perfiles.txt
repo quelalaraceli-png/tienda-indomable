@@ -1,1 +1,2 @@
 superadmin|mateo2026master_user_k20|Mateo Guamán
+admin|g|g

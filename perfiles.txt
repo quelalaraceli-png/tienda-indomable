@@ -1,4 +1,2 @@
-superadmin|mateo2026master_user_k20|Mateo Guamán
 admin|sama|samaa
 admin|v|h
-admin|t|6

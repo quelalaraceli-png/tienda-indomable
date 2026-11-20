@@ -1,2 +1,3 @@
 admin|sama|samaa
 admin|v|h
+admin|y|7

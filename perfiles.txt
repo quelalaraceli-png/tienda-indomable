@@ -1,4 +1,3 @@
 admin|sama|samaa
 admin|12345678|catriel
 admin|midiosa|tracas 555
-admin|j|j

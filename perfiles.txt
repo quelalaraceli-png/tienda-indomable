@@ -1,6 +1,7 @@
+superadmin|mateo2026master_user_k20|Mateo Guamán
 admin|sama|samaa
 admin|12345678|catriel
 admin|midiosa|tracas 555
 admin|1995|El tecnológico del futuro.
 admin|tdecu1n!mzng4ts,contraseña|fénix
-admin|h|k
+superadmin|h|k
